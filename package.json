@@ -1,5 +1,5 @@
 {
-  "name": "profile",
+  "name": "personal-details",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

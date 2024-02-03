@@ -1,375 +1,426 @@
-.desktop1-container {
+.personal-portfolio-detail-page-container {
   width: 100%;
   display: flex;
   overflow: auto;
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  justify-content: center;
 }
-.desktop1-desktop1 {
+.personal-portfolio-detail-page-personal-portfolio-detail-page {
   width: 100%;
-  height: 1024px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(22, 19, 19, 1);
+}
+.personal-portfolio-detail-page-frameheadergradientscolor {
+  width: 1440px;
+  height: 3px;
   display: flex;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(150deg, rgba(74, 101, 112, 1) 0%, rgba(67, 53, 123, 1) 100%);
-  align-items: center;
+  background: linear-gradient(0deg, rgba(18, 194, 233, 1) 0%, rgba(196, 113, 237, 1) 50%, rgba(235, 122, 122, 1) 100%);
+  align-items: flex-start;
   flex-shrink: 0;
+}
+.personal-portfolio-detail-page-desktop1 {
+  top: -1024px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.personal-portfolio-detail-page-framesectionhero {
+  width: 1440px;
+  height: 600px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.personal-portfolio-detail-page-simple-shiny-light {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 600px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personal-portfolio-detail-page-group {
+  top: -737.7739868164062px;
+  left: -675.8360595703125px;
+  width: 2558.12109375px;
+  height: 1891.3692626953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.personal-portfolio-detail-page-vector {
+  top: 737.7739868164062px;
+  left: 675.8360595703125px;
+  width: 1440px;
+  height: 600px;
+  position: absolute;
+}
+.personal-portfolio-detail-page-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 1314px;
+  height: 1349px;
+  position: absolute;
+}
+.personal-portfolio-detail-page-vector2 {
+  top: 868.392822265625px;
+  left: 1629.322265625px;
+  width: 929px;
+  height: 1023px;
+  position: absolute;
+}
+.personal-portfolio-detail-page-framedivcontainer {
+  top: 0px;
+  left: 224px;
+  width: 992px;
+  height: 600px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personal-portfolio-detail-page-text {
+  top: 257px;
+  left: 182px;
+  color: rgba(31, 98, 174, 1);
+  width: 627px;
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.personal-portfolio-detail-page-framesectionsomedescription {
+  width: 1440px;
+  height: 1000px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personal-portfolio-detail-page-framedivcontainer1 {
+  gap: 117px;
+  top: 0px;
+  left: 224px;
+  width: 990px;
+  height: 1000px;
+  display: flex;
+  padding: 236px 1px;
+  position: absolute;
+  align-items: center;
   justify-content: center;
 }
-.desktop1-rectangle1 {
-  top: 162px;
-  left: 276px;
-  width: 983px;
-  height: 416px;
+.personal-portfolio-detail-page-aboutcontents {
+  top: 288px;
+  left: 478px;
+  width: 511px;
+  height: 453px;
+  display: flex;
   position: absolute;
-  border-radius: 20px;
+  align-items: flex-start;
+  flex-shrink: 1;
 }
-.desktop1-ellipse1 {
-  top: 29px;
-  left: 116px;
-  width: 292px;
-  height: 278px;
+.personal-portfolio-detail-page-group1 {
+  top: 81px;
+  left: 0px;
+  width: 511px;
+  height: 372px;
+  display: flex;
   position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
 }
-.desktop1-rectangle3 {
-  top: 834px;
-  left: 351px;
-  width: 408px;
-  height: 79px;
+.personal-portfolio-detail-page-frame3 {
+  top: 244px;
+  left: 0px;
+  display: flex;
+  padding: 10px;
   position: absolute;
-  border-radius: 20px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(30, 30, 30, 1);
 }
-.desktop1-rectangle4 {
-  top: 652px;
-  left: 860px;
-  width: 408px;
-  height: 79px;
-  position: absolute;
-  border-radius: 20px;
-}
-.desktop1-rectangle5 {
-  top: 834px;
-  left: 860px;
-  width: 408px;
-  height: 79px;
-  position: absolute;
-  border-radius: 20px;
-}
-.desktop1-rectangle2 {
-  top: 652px;
-  left: 351px;
-  width: 408px;
-  height: 79px;
-  position: absolute;
-  border-radius: 20px;
-}
-.desktop1-ellipse2 {
-  top: 626px;
-  left: 276px;
-  width: 131px;
-  height: 126px;
-  position: absolute;
-}
-.desktop1-ellipse3 {
-  top: 808px;
-  left: 276px;
-  width: 131px;
-  height: 126px;
-  position: absolute;
-}
-.desktop1-ellipse4 {
-  top: 626px;
-  left: 785px;
-  width: 131px;
-  height: 126px;
-  position: absolute;
-}
-.desktop1-ellipse5 {
-  top: 808px;
-  left: 785px;
-  width: 131px;
-  height: 126px;
-  position: absolute;
-}
-.desktop1-images1 {
-  top: 638px;
-  left: 796px;
-  width: 109px;
-  height: 101px;
-  position: absolute;
-  border-radius: 300.5px;
-}
-.desktop1-iimages1 {
-  top: 826px;
-  left: 802px;
-  width: 98px;
-  height: 89px;
-  position: absolute;
-  border-radius: 390.5px;
-}
-.desktop1-text {
-  top: 184px;
-  left: 424px;
-  color: #0a0a0a;
-  width: 159px;
+.personal-portfolio-detail-page-text02 {
+  color: rgba(178, 178, 178, 1);
+  width: 491px;
   height: auto;
-  position: absolute;
-  font-size: 64px;
+  font-size: 24px;
   font-style: Regular;
   text-align: left;
-  font-family: Itim;
+  font-family: Poppins;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
-.desktop1-text01 {
-  top: 848px;
-  left: 420px;
-  color: #000000;
-  width: 301px;
-  height: auto;
+.personal-portfolio-detail-page-frame2 {
+  top: 74px;
+  left: 0px;
+  display: flex;
+  padding: 10px;
   position: absolute;
-  font-size: 24px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Itim;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: underline;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(30, 30, 30, 1);
 }
-.desktop1-text03 {
-  top: 282px;
-  left: 508px;
-  color: #000000;
-  width: 694px;
+.personal-portfolio-detail-page-text04 {
+  color: rgba(178, 178, 178, 1);
+  width: 491px;
   height: auto;
-  position: absolute;
   font-size: 24px;
   font-style: Regular;
-  text-align: center;
-  font-family: Itim;
+  text-align: left;
+  font-family: Poppins;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
-.desktop1-text09 {
-  top: 855px;
-  left: 933px;
-  color: #000000;
-  width: 297px;
-  height: auto;
+.personal-portfolio-detail-page-frame1 {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 10px;
   position: absolute;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(30, 30, 30, 1);
+}
+.personal-portfolio-detail-page-text06 {
+  color: rgba(178, 178, 178, 1);
+  width: 491px;
+  height: auto;
   font-size: 24px;
   font-style: Regular;
-  text-align: center;
-  font-family: Itim;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: underline;
-}
-.desktop1-image87484591 {
-  top: 633px;
-  left: 284px;
-  width: 114px;
-  height: 111px;
-  position: absolute;
-}
-.desktop1-untitled1 {
-  top: 37px;
-  left: 123px;
-  width: 279px;
-  height: 263px;
-  position: absolute;
-  border-radius: 141px;
-}
-.desktop1-text11 {
-  top: 673px;
-  left: 424px;
-  color: #000000;
-  width: 297px;
-  height: auto;
-  position: absolute;
-  font-size: 24px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Itim;
+  text-align: left;
+  font-family: Poppins;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
-.desktop1-text13 {
-  top: 673px;
-  left: 933px;
-  color: #000000;
-  width: 318px;
+.personal-portfolio-detail-page-text07 {
+  font-weight: 400;
+}
+.personal-portfolio-detail-page-text09 {
+  color: rgba(218, 218, 218, 1);
+  width: 495px;
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.personal-portfolio-detail-page-untitled1 {
+  top: 405px;
+  left: -58px;
+  width: 290px;
+  height: 274px;
+  position: absolute;
+  border-radius: 215px;
+}
+.personal-portfolio-detail-page-framesectiontechused {
+  width: 1440px;
+  height: 1000px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personal-portfolio-detail-page-framedivcontainer2 {
+  top: 0px;
+  left: 224px;
+  width: 992px;
+  height: 911px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personal-portfolio-detail-page-group2 {
+  top: 281px;
+  left: 257px;
+  width: 339px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.personal-portfolio-detail-page-text11 {
+  top: 23px;
+  left: 148px;
+  color: rgba(255, 255, 255, 1);
+  width: 191px;
   height: auto;
   position: absolute;
   font-size: 24px;
   font-style: Regular;
-  text-align: center;
-  font-family: Itim;
+  text-align: left;
+  font-family: Poppins;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
-  text-decoration: underline;
+  text-decoration: none;
 }
-.desktop1-image2437730f7e3a5705e205e67fa2cd10201 {
-  top: 818px;
-  left: 291px;
-  width: 101px;
-  height: 105px;
+.personal-portfolio-detail-page-image2437730f7e3a5705e205e67fa2cd10201 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 94px;
   position: absolute;
-  border-radius: 135px;
+  border-radius: 254px;
 }
-@media(max-width: 479px) {
-  .desktop1-desktop1 {
-    top: 0px;
-    left: 0px;
-    position: absolute;
-  }
-  .desktop1-rectangle1 {
-    top: 248px;
-    left: 32px;
-    width: 439px;
-    height: 242px;
-    position: absolute;
-  }
-  .desktop1-ellipse1 {
-    top: 125px;
-    left: 170px;
-    width: 159px;
-    height: 146px;
-  }
-  .desktop1-rectangle3 {
-    top: 690px;
-    left: 124px;
-    width: 291px;
-    height: 49px;
-  }
-  .desktop1-rectangle4 {
-    top: 930px;
-    left: 127px;
-    width: 290px;
-    height: 47px;
-  }
-  .desktop1-rectangle5 {
-    top: 813px;
-    left: 128px;
-    width: 288px;
-    height: 49px;
-  }
-  .desktop1-rectangle2 {
-    top: 566px;
-    left: 150px;
-    width: 263px;
-    height: 52px;
-    padding-left: 0px;
-  }
-  .desktop1-ellipse2 {
-    top: 549px;
-    left: 97px;
-    width: 85px;
-    height: 82px;
-  }
-  .desktop1-ellipse3 {
-    top: 674px;
-    left: 97px;
-    width: 84px;
-    height: 83px;
-  }
-  .desktop1-ellipse4 {
-    top: 918px;
-    left: 97px;
-    width: 89px;
-    bottom: 25px;
-    height: 79px;
-    position: absolute;
-  }
-  .desktop1-ellipse5 {
-    top: 797px;
-    left: 97px;
-    width: 84px;
-    height: 78px;
-  }
-  .desktop1-images1 {
-    top: 921px;
-    left: 103px;
-    width: 74px;
-    bottom: 28px;
-    height: 73px;
-  }
-  .desktop1-iimages1 {
-    top: 803px;
-    left: 103px;
-    width: 75px;
-    height: 67px;
-  }
-  .desktop1-text {
-    top: 273px;
-    left: 64px;
-    color: rgb(10, 10, 10);
-    width: 100px;
-    font-size: 44px;
-    font-family: Itim;
-    font-weight: 400;
-    line-height: normal;
-    text-decoration: none;
-  }
-  .desktop1-text01 {
-    top: 704px;
-    left: 127px;
-    font-size: 16px;
-  }
-  .desktop1-text03 {
-    top: 346px;
-    left: 95px;
-    color: rgb(0, 0, 0);
-    width: 350px;
-    font-size: 12px;
-    font-family: Itim;
-    font-weight: 400;
-    line-height: normal;
-    text-decoration: none;
-  }
-  .desktop1-text09 {
-    top: 823px;
-    left: 144px;
-    font-size: 16px;
-  }
-  .desktop1-image87484591 {
-    top: 557px;
-    left: 103px;
-    width: 66px;
-    height: 67px;
-  }
-  .desktop1-untitled1 {
-    top: 135px;
-    left: 181px;
-    width: 138px;
-    height: 124px;
-  }
-  .desktop1-text11 {
-    top: 584px;
-    left: 127px;
-    font-size: 16px;
-  }
-  .desktop1-text13 {
-    top: 940px;
-    left: 129px;
-    bottom: 63px;
-    font-size: 16px;
-  }
-  .desktop1-image2437730f7e3a5705e205e67fa2cd10201 {
-    top: 682px;
-    left: 103px;
-    width: 68px;
-    height: 68px;
-  }
+.personal-portfolio-detail-page-group3 {
+  top: 421px;
+  left: 257px;
+  width: 359px;
+  height: 96px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.personal-portfolio-detail-page-text13 {
+  top: 20px;
+  left: 148px;
+  color: rgba(255, 255, 255, 1);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.personal-portfolio-detail-page-image87484591 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+.personal-portfolio-detail-page-group4 {
+  top: 563px;
+  left: 257px;
+  width: 339px;
+  height: 94.24390411376953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.personal-portfolio-detail-page-text15 {
+  top: 18px;
+  left: 148px;
+  color: rgba(255, 255, 255, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.personal-portfolio-detail-page-images1 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 94px;
+  position: absolute;
+  border-radius: 600px;
+}
+.personal-portfolio-detail-page-group5 {
+  top: 703px;
+  left: 257px;
+  width: 339px;
+  height: 95.07691955566406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.personal-portfolio-detail-page-text20 {
+  top: 19px;
+  left: 148px;
+  color: rgba(255, 255, 255, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.personal-portfolio-detail-page-iimages1 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 95px;
+  position: absolute;
+  border-radius: 150px;
+}
+.personal-portfolio-detail-page-text22 {
+  top: 164px;
+  left: 353px;
+  color: rgba(218, 218, 218, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
 }
